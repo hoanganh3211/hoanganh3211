@@ -9,7 +9,7 @@
 - 🌱 I’m constantly expanding my knowledge in **Machine Learning architectures and modern web frameworks**
 - 💼 Experience: **Former AI Intern** (focusing on data pipelines and model preparation)
 - 💬 Ask me about **YOLO models, .NET Core, ReactJS, or System Analysis**
-- 📫 How to reach me: **[Your Email] | [Your LinkedIn URL]**
+- 📫 How to reach me: **vietcong2304@gmail.com | www.linkedin.com/in/hoanganh234**
 
 ---
 
