@@ -1,35 +1,34 @@
-<h1 align="center">Hi 👋, I'm Hoàng Anh</h1>
-<h3 align="center">A passionate AI & Web Developer</h3>
+<h1 align="center">Hoàng Anh</h1>
+<h3 align="center">Software Developer | AI & Computer Vision Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Hoàng Anh" />
+<p align="center">
+  <a href="mailto:vietcong2304@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/hoanganh234">LinkedIn</a>
 </p>
 
-- 🔭 I’m currently working on **Computer Vision and Full-Stack Web Development**
-- 🌱 I’m constantly expanding my knowledge in **Machine Learning architectures and modern web frameworks**
-- 💼 Experience: **Former AI Intern** (focusing on data pipelines and model preparation)
-- 💬 Ask me about **YOLO models, .NET Core, ReactJS, or System Analysis**
-- 📫 How to reach me: **vietcong2304@gmail.com | www.linkedin.com/in/hoanganh234**
-
 ---
 
-### 🛠️ Tech Stack & Tools
+I am a software developer with a strong focus on **Artificial Intelligence** and **Full-Stack Web Development**. I specialize in bridging the gap between machine learning models—particularly in computer vision—and practical, user-facing applications. 
 
-**Artificial Intelligence & Machine Learning**
-*   **Models & Architectures:** YOLOv8, YOLOv11, RT-DETR, CNNs, Haar Cascades
-*   **Tools & Libraries:** PyQt6, OpenCV, Python
+*   **Background:** IT/CS background with professional experience as an AI Intern, handling data pipelines and model preparation.
+*   **Current Focus:** Optimizing object detection models (YOLO architectures) and building scalable web backends.
 
-**Web Development**
-*   **Backend:** .NET Core, PHP
-*   **Frontend:** ReactJS, Vue.js
-*   **Deployment:** Microsoft Azure
+### 💻 Technical Arsenal
+
+*   **AI & Computer Vision:** YOLOv8, YOLOv11, RT-DETR, CNNs, Haar Cascades, OpenCV
+*   **Web Development:** .NET Core, ReactJS, Vue.js, PHP
+*   **Tools & Infrastructure:** Python, PyQt6, Microsoft Azure, Git
+
+### 🚀 Featured Work
+
+*   **Vietnamese Cuisine Detection System**
+    Developed a desktop application using **Python & PyQt6** integrated with **YOLOv11** to automatically detect and classify local dishes.
+*   **Student Management API**
+    Architected a structured RESTful backend service using **.NET Core**. Managed the deployment and hosting pipeline on **Microsoft Azure**.
+*   **Demographic Analysis Pipeline**
+    Built a facial age estimation tool utilizing **CNN architectures** and **Haar Cascades** for efficient facial feature extraction and prediction.
 
 ---
-
-### 🚀 Highlighted Projects
-
-*   **Vietnamese Food Detection:** A desktop application built with Python, PyQt6, and YOLOv11 designed to accurately detect and classify various Vietnamese dishes.
-*   **Student Management Web API:** A robust backend system built with .NET Core, featuring a structured API design and deployed successfully on Azure.
-*   **Facial Age Estimation:** A computer vision project leveraging Convolutional Neural Networks (CNN) and Haar Cascades for feature extraction and age prediction.
-
----
+<p align="center">
+  <i>Always open to discussing machine learning architectures, system design, or new tech stacks.</i>
+</p>
