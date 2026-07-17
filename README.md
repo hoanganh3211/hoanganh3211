@@ -33,14 +33,3 @@
 *   **Facial Age Estimation:** A computer vision project leveraging Convolutional Neural Networks (CNN) and Haar Cascades for feature extraction and age prediction.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
-  </a>
-</p>
